@@ -1,0 +1,4 @@
+urllib3
+eventlet
+requests
+pyTelegramBotAPI>=3.8.1
